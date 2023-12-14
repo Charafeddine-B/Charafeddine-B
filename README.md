@@ -2,7 +2,7 @@
 
 **`Engineering student | Full Stack Java Developer | Mobile App Developer (Swift, Android, Flutter) | pursuing AWS Cloud Practitioner  `**
 
-Self-taught for the most part, I am currently in my 5th year at [EMSI](https://www.emsi.ma/), also pursuing a Master's degree at [Université Côte d'Azur](https://univ-cotedazur.fr/formation/offre-de-formation/parcours-mobiquite-big-data-et-integration-de-systemes-mbds) in parallel.<br>
+ I am currently in my 5th year at [EMSI](https://www.emsi.ma/), also pursuing a Master's degree at [Université Côte d'Azur](https://univ-cotedazur.fr/formation/offre-de-formation/parcours-mobiquite-big-data-et-integration-de-systemes-mbds) in parallel.<br>
 My main goal for the short to mid-term is to graduate and start my career as a Software engineer.
 
 ---
